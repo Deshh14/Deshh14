@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deshh14
 - 👀 I'm interested in programming. In particular I am interested in C++
-- 🌱 I'm currently in school and learning C++
+- 🌱 I'm currently learning C++
 - 💞️ I'm not looking for collaboration at the moment
 - 📫 How to contact me? You can email - email.desh@bk.ru
 
